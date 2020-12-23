@@ -5,6 +5,7 @@ static const Block blocks[] = {
 	{"VOL ", "statusvolume",	                30,	1},
     {"", "statusnetrate",                       1,  0},
 	{"CPU ", "statuscpu",						1,	0},
+	{"GPU ", "statusgpu",						1,	0},
     {"", "statuscharge",                        10, 8},
 	{"", "statusdate",						    30,	0},
 };
